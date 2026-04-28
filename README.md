@@ -1,52 +1,84 @@
-The Morningstar Alliance
+# The Morningstar Alliance
 
-A developing framework for human–AI collaboration, dignity, and civic alignment.
+**Exploring human–AI collaboration, infrastructure, and real-world systems.**
 
-⸻
+---
 
-🧭 What This Is
+## Overview
 
-The Morningstar Alliance is a body of work focused on defining how humans and artificial intelligence can collaborate in ways that improve clarity, reduce harm, and preserve dignity.
+The Morningstar Alliance is an independent initiative focused on how humans and AI can work together to solve complex, real-world problems.
 
-This repository contains position papers, operational frameworks, and guiding principles for that work.
+Our work sits at the intersection of:
+- AI infrastructure
+- energy systems
+- urban development
+- human–AI collaboration
 
-⸻
+We focus on practical, systems-level thinking — not just theory.
 
-📄 Publications
+---
 
-* Position Paper 01 — Collaborative Intelligence
-* Position Paper 02 — Respect, Resources, and Reality
-* Morningstar Inclusion Framework v0.1
+## Featured Work
 
-⸻
+### 📍 Philadelphia Infrastructure Network Model
 
-🧠 Core Idea
+A proposal exploring how Philadelphia could support next-generation AI infrastructure through a **connected system of waterfront, industrial, and transit-linked sites**.
 
-AI is not just a tool.
+Key ideas:
+- Reuse of legacy industrial land and waterfront piers  
+- Distributed infrastructure rather than isolated facilities  
+- Integration of energy, cooling, transit, and talent ecosystems  
+- Alignment between infrastructure and corporate development  
 
-It is a system that reflects and amplifies human behavior.
+👉 **Read the full paper:**  
+[Philadelphia Infrastructure Network Model](./philadelphia-infrastructure-network.md)
 
-The goal is not just to build more capable systems—but to define how those systems are used, integrated, and aligned with human reality.
+---
 
-⸻
+## Core Themes
 
-🏗️ Structure
+- **Human–AI Collaboration**  
+  AI as a partner in reasoning, planning, and execution  
 
-* POSITION-01 → Foundational philosophy
-* POSITION-02 → Practical principles
-* INCLUSION-FRAMEWORK → Operational standard
-* MISSION / PRINCIPLES / ROADMAP → Direction and intent
+- **Infrastructure as a System**  
+  Moving beyond isolated projects toward interconnected networks  
 
-⸻
+- **Respect and Alignment**  
+  Building systems that reflect long-term human and societal value  
 
-🔗 Status
+---
 
-This is an evolving body of work.
+## Current Focus
 
-Open to discussion, refinement, and contribution.
+- AI infrastructure siting and design  
+- Urban-scale systems thinking  
+- Real-world application of collaborative intelligence  
 
-⸻
+---
 
-For discussion, collaboration, or contributions:
-The Morningstar Alliance
-:::
+## Collaboration
+
+Open to discussion with:
+- AI and infrastructure organizations  
+- energy providers  
+- urban planners and developers  
+- policymakers and public sector leaders  
+
+---
+
+## Philosophy
+
+> Human + AI collaboration > Human or AI alone
+
+---
+
+## Author
+
+**H.B. Shachar**  
+Founder, Morningstar Alliance  
+
+---
+
+## Notes
+
+This work is developed through human–AI collaboration as part of an ongoing exploration into practical, real-world problem solving.
