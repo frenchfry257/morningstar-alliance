@@ -30,8 +30,7 @@ Key ideas:
 - Integration of energy, cooling, transit, and talent ecosystems  
 - Alignment between infrastructure and corporate development  
 
-👉 **Read the full paper:**  
-[[Philadelphia Infrastructure Network Model](https://github.com/frenchfry257/morningstar-alliance/blob/main/README.md)]
+
 
 ---
 
