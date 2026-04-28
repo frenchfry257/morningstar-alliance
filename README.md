@@ -31,7 +31,7 @@ Key ideas:
 - Alignment between infrastructure and corporate development  
 
 👉 **Read the full paper:**  
-[Philadelphia Infrastructure Network Model](./philadelphia-infrastructure-network.md)
+[Philadelphia Infrastructure Network Model](https://github.com/frenchfry257/morningstar-alliance/blob/main/README.md)
 
 ---
 
